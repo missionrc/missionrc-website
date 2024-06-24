@@ -44,7 +44,18 @@
 			</div>
 		</nav>
 		<aside>
-			<p>Copyright © 2024 - All rights reserved by MissionRC</p>
+			<p>
+				Copyright © 2024 - All rights reserved by MissionRC &bull;
+
+				<a href="#" class="text-indigo-800 hover:underline underline-offset-2">Privacy Policy</a>
+
+				&bull;
+				<a
+					href="https://utfs.io/f/4969bafc-6c8e-4660-809c-ffc6a5a90ea9-fgbra8.pdf"
+					target="_blank"
+					class="text-indigo-800 hover:underline underline-offset-2">SAM Policy</a
+				>
+			</p>
 		</aside>
 	</footer>
 </div>
