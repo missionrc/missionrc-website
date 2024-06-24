@@ -47,7 +47,9 @@
 			<p>
 				Copyright © 2024 - All rights reserved by MissionRC &bull;
 
-				<a href="#" class="text-indigo-800 hover:underline underline-offset-2">Privacy Policy</a>
+				<a href="/privacy" class="text-indigo-800 hover:underline underline-offset-2">
+					Privacy Policy
+				</a>
 
 				&bull;
 				<a
