@@ -36,12 +36,12 @@
 					<div class="flex flex-col items-center">
 						<img src="ethan.webp" alt="Team Member 1" class="rounded-full h-32 w-32 object-cover" />
 						<h3 class="text-gray-900 text-lg font-semibold pt-4">Ethan Chu</h3>
-						<p class="text-gray-600 pt-2">Chief Executive Officer</p>
+						<p class="text-gray-600">Chief Executive Officer</p>
 					</div>
 					<div class="flex flex-col items-center">
 						<img src="ani.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Anirudh Sabari</h3>
-						<p class="text-gray-600 pt-2">Director of Management</p>
+						<p class="text-gray-600 pt-1">Director of Management</p>
 					</div>
 					<div class="flex flex-col items-center">
 						<img
@@ -50,22 +50,22 @@
 							class="rounded-full h-32 w-32 object-cover"
 						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Hritvik Srivastava</h3>
-						<p class="text-gray-600 pt-2">Director of Operations</p>
+						<p class="text-gray-600 pt-1">Director of Operations</p>
 					</div>
 					<div class="flex flex-col items-center">
 						<img src="sam.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Sam Mathew</h3>
-						<p class="text-gray-600 pt-2">Director of Training</p>
+						<p class="text-gray-600 pt-1">Director of Training</p>
 					</div>
 					<div class="flex flex-col items-center">
 						<img src="anav.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Anav Saxena</h3>
-						<p class="text-gray-600 pt-2">Director of Programs</p>
+						<p class="text-gray-600 pt-1">Director of Programs</p>
 					</div>
 					<div class="flex flex-col items-center">
 						<img src="grace.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Grace Nam</h3>
-						<p class="text-gray-600 pt-2">Director of Finance</p>
+						<p class="text-gray-600 pt-1">Director of Finance</p>
 					</div>
 					<div class="flex flex-col items-center">
 						<img
@@ -74,31 +74,12 @@
 							class="rounded-full h-32 w-32 object-cover"
 						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Lawrence Chen</h3>
-						<p class="text-gray-600 pt-2">Director of Administration</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img src="andy.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Andy Zhang</h3>
-						<p class="text-gray-600 pt-2">Project Lead</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img src="araav.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Araav Nayak</h3>
-						<p class="text-gray-600 pt-2">Project Lead</p>
+						<p class="text-gray-600 pt-1">Director of Administration</p>
 					</div>
 					<div class="flex flex-col items-center">
 						<img src="aarav.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Aarav Mehta</h3>
-						<p class="text-gray-600 pt-2">Project Lead</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="manahil.webp"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Manahil Jawwad</h3>
-						<p class="text-gray-600 pt-2">Project Lead</p>
+						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 				</div>
 			</div>
