@@ -1,10 +1,11 @@
 <script>
 	import Footer from '$lib/components/Footer.svelte';
 	import Navbar from '$lib/components/Navbar.svelte';
-	import { redirect } from '@sveltejs/kit';
+	import PageMeta from '$lib/components/PageMeta.svelte';
 </script>
 
 <div class="bg-white">
+	<PageMeta />
 	<Navbar />
 	<div class="relative isolate px-6 pt-14 lg:px-8">
 		<div

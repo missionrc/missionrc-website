@@ -1,9 +1,11 @@
 <script>
 	import Footer from '$lib/components/Footer.svelte';
 	import Navbar from '$lib/components/Navbar.svelte';
+	import PageMeta from '$lib/components/PageMeta.svelte';
 </script>
 
 <div>
+	<PageMeta title="Privacy Policy | MissionRC" />
 	<Navbar />
 
 	<main class="pt-28">
