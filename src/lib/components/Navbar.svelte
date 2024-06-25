@@ -45,7 +45,7 @@
 			<NavLink title="Team" href="/team" />
 			<NavLink title="About Us" href="/about" />
 			<NavLink title="Programs" href="/programs" />
-			<NavLink title="Contact" href="/contact" />
+			<NavLink title="Contact" href="/#contact" />
 		</div>
 		<div class="hidden lg:flex lg:flex-1 lg:justify-end">
 			<a href="/donate" class="text-sm font-semibold leading-6 text-white">
@@ -89,13 +89,14 @@
 						<NavLink title="Team" href="/" isMobile={true} />
 						<NavLink title="About Us" href="/" isMobile={true} />
 						<NavLink title="Programs" href="/" isMobile={true} />
-						<NavLink title="Contact" href="/" isMobile={true} />
+						<NavLink title="Contact" href="/#contact" isMobile={true} />
 						<div class="py-6">
 							<a
 								href="/donate"
 								class="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-								>Donate</a
 							>
+								Donate
+							</a>
 						</div>
 					</div>
 				</div>

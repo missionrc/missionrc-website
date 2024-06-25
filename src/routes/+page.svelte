@@ -1,6 +1,7 @@
 <script>
 	import Footer from '$lib/components/Footer.svelte';
 	import Navbar from '$lib/components/Navbar.svelte';
+	import { redirect } from '@sveltejs/kit';
 </script>
 
 <div class="bg-white">
@@ -158,6 +159,30 @@
 					<div id="item3" class="carousel-item w-full flex justify-center">
 						<img src="camp3.webp" alt="Camp 3" />
 					</div>
+				</div>
+			</div>
+		</div>
+		<div class="pt-16 sm:pt-32">
+			<div class="mx-auto max-w-7xl px-6 lg:px-8">
+				<h2 class="text-center text-3xl font-semibold leading-8 text-gray-900" id="contact">
+					Contact Us
+				</h2>
+				<p class="text-md text-center text-gray-500 pt-4">
+					Have any questions? Feel free to email us at
+					<a
+						href="mailto:missionrc.cupertino@gmail.com"
+						class="text-indigo-600 hover:underline underline-offset-2"
+					>
+						missionrc.cupertino@gmail.com
+					</a>
+				</p>
+				<div class="flex justify-center">
+					<a
+						class="mt-8 px-4 py-2.5 rounded-lg bg-indigo-600 text-white font-semibold hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+						href="mailto:missionrc.cupertino@gmail.com"
+					>
+						Email Us
+					</a>
 				</div>
 			</div>
 		</div>

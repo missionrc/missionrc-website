@@ -5,7 +5,7 @@
 			<a href="#" class="hover:text-indigo-800">Team</a>
 			<a href="#" class="hover:text-indigo-800">About Us</a>
 			<a href="#" class="hover:text-indigo-800">Programs</a>
-			<a href="#" class="hover:text-indigo-800">Contact</a>
+			<a href="/#contact" class="hover:text-indigo-800">Contact</a>
 		</nav>
 		<nav>
 			<div class="grid grid-flow-col gap-4">
@@ -55,8 +55,10 @@
 				<a
 					href="https://utfs.io/f/4969bafc-6c8e-4660-809c-ffc6a5a90ea9-fgbra8.pdf"
 					target="_blank"
-					class="text-indigo-800 hover:underline underline-offset-2">SAM Policy</a
+					class="text-indigo-800 hover:underline underline-offset-2"
 				>
+					SAM Policy
+				</a>
 			</p>
 		</aside>
 	</footer>
