@@ -49,7 +49,7 @@
 					>
 						Registration
 					</a>
-					<a href="#" class="text-sm font-semibold leading-6 text-gray-900">
+					<a href="/about" class="text-sm font-semibold leading-6 text-gray-900 hover:underline underline-offset-2 decoration-indigo-500">
 						Learn more
 						<span aria-hidden="true">→</span>
 					</a>
