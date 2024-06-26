@@ -81,6 +81,21 @@
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Aarav Mehta</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
+					<div class="flex flex-col items-center">
+						<img src="ved.jpeg" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Ved Kamath</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img src="eugene.jpeg" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Eugene Hong</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img src="satvik.jpeg" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Satvik</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
 				</div>
 			</div>
 		</main>
