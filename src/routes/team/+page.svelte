@@ -93,7 +93,27 @@
 					</div>
 					<div class="flex flex-col items-center">
 						<img src="satvik.jpeg" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Satvik</h3>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Satvik Reddy</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img src="hansika.png" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Hansika Chinnakonda Mahesh Babu</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img src="jaseer.png" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Jaseer Abdulla</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img src="tejas.png" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Tejas Bojanapati</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img src="rudra.png" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Rudra Chatripally</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 				</div>
@@ -102,4 +122,3 @@
 	</div>
 	<Footer />
 </div>
-
