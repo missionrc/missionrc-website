@@ -2,9 +2,9 @@
 	<footer class="footer footer-center p-10 bg-base-200 text-base-content rounded">
 		<nav class="grid grid-flow-col gap-4">
 			<a href="/" class="hover:text-indigo-800">Home</a>
-			<a href="#" class="hover:text-indigo-800">Team</a>
-			<a href="#" class="hover:text-indigo-800">About Us</a>
-			<a href="#" class="hover:text-indigo-800">Programs</a>
+			<a href="/team" class="hover:text-indigo-800">Team</a>
+			<a href="/about" class="hover:text-indigo-800">About</a>
+			<a href="/programs" class="hover:text-indigo-800">Programs</a>
 			<a href="/#contact" class="hover:text-indigo-800">Contact</a>
 		</nav>
 		<nav>

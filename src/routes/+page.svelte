@@ -2,6 +2,24 @@
 	import Footer from '$lib/components/Footer.svelte';
 	import Navbar from '$lib/components/Navbar.svelte';
 	import PageMeta from '$lib/components/PageMeta.svelte';
+
+	let currentIndex = 0;
+	const items = [
+		{ src: 'camp1.webp', alt: 'Camp 1' },
+		{ src: 'camp2.webp', alt: 'Camp 2' },
+		{ src: 'camp3.webp', alt: 'Camp 3' }
+	];
+	const totalItems = items.length;
+
+	// go to next slide
+	function next() {
+		currentIndex = (currentIndex + 1) % totalItems;
+	}
+
+	// go to next slide
+	function prev() {
+		currentIndex = (currentIndex - 1 + totalItems) % totalItems;
+	}
 </script>
 
 <div class="bg-white">
@@ -18,18 +36,6 @@
 			></div>
 		</div>
 		<div class="mx-auto max-w-2xl py-16 sm:py-24 lg:py-28">
-			<div class="hidden sm:mb-8 sm:flex sm:justify-center">
-				<div
-					class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20"
-				>
-					Upcoming Programs
-					<a href="#" class="font-semibold text-indigo-600">
-						<span class="absolute inset-0" aria-hidden="true"></span>
-						Register Now
-						<span aria-hidden="true">&rarr;</span>
-					</a>
-				</div>
-			</div>
 			<div class="text-center">
 				<h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
 					The <span class="underline underline-offset-2 decoration-indigo-500">New</span> Standard in
@@ -44,12 +50,15 @@
 
 				<div class="mt-10 flex items-center justify-center gap-x-6">
 					<a
-						href="#"
+						href="/programs"
 						class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 					>
 						Registration
 					</a>
-					<a href="/about" class="text-sm font-semibold leading-6 text-gray-900 hover:underline underline-offset-2 decoration-indigo-500">
+					<a
+						href="/about"
+						class="text-sm font-semibold leading-6 text-gray-900 hover:underline underline-offset-2 decoration-indigo-500"
+					>
 						Learn more
 						<span aria-hidden="true">→</span>
 					</a>
@@ -150,15 +159,18 @@
 						>Register for Camps</button
 					>
 				</div>
-				<div class="carousel pt-8">
-					<div id="item1" class="carousel-item w-full flex justify-center">
-						<img src="camp1.webp" alt="Camp 1" />
+
+				<div
+					class="mt-12 grid grid-cols-1 gap-y-8 sm:grid-cols-2 sm:gap-x-8 sm:gap-y-8 lg:grid-cols-3"
+				>
+					<div class="relative overflow-hidden rounded-lg">
+						<img src="camp1.webp" alt="Camp 1" class="w-full h-full object-cover" />
 					</div>
-					<div id="item2" class="carousel-item w-full flex justify-center">
-						<img src="camp2.webp" alt="Camp 2" />
+					<div class="relative overflow-hidden rounded-lg">
+						<img src="camp2.webp" alt="Camp 2" class="w-full h-full object-cover" />
 					</div>
-					<div id="item3" class="carousel-item w-full flex justify-center">
-						<img src="camp3.webp" alt="Camp 3" />
+					<div class="relative overflow-hidden rounded-lg">
+						<img src="camp3.webp" alt="Camp 3" class="w-full h-full object-cover" />
 					</div>
 				</div>
 			</div>
