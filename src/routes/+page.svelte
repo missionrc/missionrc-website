@@ -2,24 +2,6 @@
 	import Footer from '$lib/components/Footer.svelte';
 	import Navbar from '$lib/components/Navbar.svelte';
 	import PageMeta from '$lib/components/PageMeta.svelte';
-
-	let currentIndex = 0;
-	const items = [
-		{ src: 'camp1.webp', alt: 'Camp 1' },
-		{ src: 'camp2.webp', alt: 'Camp 2' },
-		{ src: 'camp3.webp', alt: 'Camp 3' }
-	];
-	const totalItems = items.length;
-
-	// go to next slide
-	function next() {
-		currentIndex = (currentIndex + 1) % totalItems;
-	}
-
-	// go to next slide
-	function prev() {
-		currentIndex = (currentIndex - 1 + totalItems) % totalItems;
-	}
 </script>
 
 <div class="bg-white">
@@ -129,7 +111,7 @@
 					<img
 						class="max-h-24 w-full object-contain"
 						src="https://static.wixstatic.com/media/881909_e7fead65b207420ea391c9ed187f4eab~mv2.png/v1/crop/x_180,y_101,w_309,h_173/fill/w_282,h_158,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/hack%2Bnobg.png"
-						alt="hack+ logo"
+						alt="hack+ Logo"
 						width="632"
 						height="192"
 					/>
@@ -156,8 +138,9 @@
 				<div class="flex justify-center">
 					<button
 						class="mt-8 px-4 py-2.5 rounded-lg bg-indigo-600 text-white font-semibold hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-						>Register for Camps</button
 					>
+						Register for Camps
+					</button>
 				</div>
 
 				<div

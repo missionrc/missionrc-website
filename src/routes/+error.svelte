@@ -5,12 +5,10 @@
 </script>
 
 <div class="flex flex-col min-h-screen">
-	<!-- Step 1: flex container -->
 	<PageMeta title="Page Not Found | MissionRC" />
 	<Navbar />
 
 	<div class="relative isolate px-6 pt-14 lg:px-8 flex-grow">
-		<!-- Step 2: content will grow -->
 		<div
 			class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
 			aria-hidden="true"
@@ -41,6 +39,5 @@
 		</main>
 	</div>
 
-	<Footer class="mt-auto" />
-	<!-- Step 3: Footer at the bottom -->
+	<Footer />
 </div>
