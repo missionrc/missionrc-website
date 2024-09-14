@@ -60,27 +60,11 @@
 
 				<div class="pt-4 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2">
 					<ProgramCard
-						title="RC Cars & Engineering Exploration"
-						season="2023-2024 Fall"
-						description="Over the course of 4 weeks, students will learn the fundamentals for RC and will build several RC Projects such as cars or drones."
-						btnText="View Details"
-						btnLink="/programs/rc-cars-engineering-exploration"
-					/>
-
-					<ProgramCard
-						title="RC Project Building Workshop"
-						season="July 31 - August 4"
-						description="Students will be creating several RC projects, which will consist of RC planes, cars, and drones."
-						btnText="View Details"
-						btnLink="/programs/rc-project-building-workshop"
-					/>
-
-					<ProgramCard
 						title="Sky Pioneers: RC Plane Engineering Program"
 						season="2024 Spring"
 						description="Students will learn basic mechanics behind the plane and collaborate with a team to apply the experimental design process to develop their own RC plane from scratch."
 						btnText="View Details"
-						btnLink="/programs/sky-pioneers-rc-plane-engineering-program"
+						btnLink="/programs/sky-pioneers"
 					/>
 				</div>
 			</div>
