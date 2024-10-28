@@ -37,10 +37,26 @@
 
 		<!-- images go here -->
 		<div class="mt-8 grid grid-cols-1 gap-2 sm:grid-cols-2 max-w-screen-lg mx-auto">
-			<img src="camp2-1.webp" alt="Camp 1" class="w-full h-64 object-cover rounded-lg shadow-lg" />
-			<img src="camp2-2.webp" alt="Camp 1" class="w-full h-64 object-cover rounded-lg shadow-lg" />
-			<img src="camp2-3.webp" alt="Camp 1" class="w-full h-64 object-cover rounded-lg shadow-lg" />
-			<img src="camp2-4.webp" alt="Camp 1" class="w-full h-64 object-cover rounded-lg shadow-lg" />
+			<enhanced:img
+				src="/static/camp2-1.webp"
+				alt="Camp 1"
+				class="w-full h-64 object-cover rounded-lg shadow-lg"
+			/>
+			<enhanced:img
+				src="/static/camp2-2.webp"
+				alt="Camp 1"
+				class="w-full h-64 object-cover rounded-lg shadow-lg"
+			/>
+			<enhanced:img
+				src="/static/camp2-3.webp"
+				alt="Camp 1"
+				class="w-full h-64 object-cover rounded-lg shadow-lg"
+			/>
+			<enhanced:img
+				src="/static/camp2-4.webp"
+				alt="Camp 1"
+				class="w-full h-64 object-cover rounded-lg shadow-lg"
+			/>
 		</div>
 
 		<div class="pt-24">

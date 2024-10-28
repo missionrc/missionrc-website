@@ -10,7 +10,7 @@
 	<nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
 		<div class="flex lg:flex-1">
 			<a href="/" class="-m-1.5 p-1.5 flex flex-row gap-2">
-				<img class="h-8 w-auto" src="logo1.png" alt="MissionRC Logo" />
+				<enhanced:img class="h-8 w-auto" src="/static/logo1.png" alt="MissionRC Logo" />
 				<div class="flex flex-row">
 					<span class="text-2xl font-semibold text-indigo-800">Mission</span>
 					<span class="text-2xl font-semibold text-emerald-500">RC</span>

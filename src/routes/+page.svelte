@@ -51,16 +51,16 @@
 				<h1 class="text-center text-3xl sm:text-3xl text-gray-900 font-bold tracking-tight">
 					Why Choose MissionRC?
 				</h1>
-				<div class="mx-auto max-w-7xl py-8 sm:py-12 px-6 lg:px-8">
-					<dl class="grid grid-cols-1 gap-x-8 gap-y-16 text-center lg:grid-cols-2">
+				<div class="mx-auto py-8 sm:py-12 px-6 lg:px-8">
+					<dl class="grid grid-cols-2 gap-x-8 gap-y-16 text-center lg:grid-cols-2">
 						<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 							<dt class="flex flex-col">
 								<div class="text-lg leading-7 text-gray-600 font-bold underline underline-offset-2">
 									Cumulative teaching hours
 								</div>
 								<div class="text-md leading-7 text-gray-600">
-									Over 1000+ hours recorded teaching curriculum for our RC programs. Making sure
-									students are able to absorb all knowledge to the fullest extent.
+									Our mentors bring a collective 1,000+ hours of teaching experience, each with deep
+									expertise in our curriculum.
 								</div>
 							</dt>
 							<dd
@@ -69,22 +69,40 @@
 								1,000+
 							</dd>
 						</div>
+
+						<div class="mx-auto flex max-w-xs flex-col gap-y-4">
+							<dt class="flex flex-col">
+								<div class="text-lg leading-7 text-gray-600 font-bold underline underline-offset-2">
+									Total Money Invested
+								</div>
+								<div class="text-md leading-7 text-gray-600">
+									After over 2 years in business, MissionRC has raised over $5k towards RC
+									education, ensuring both facilities and materials are high quality and suitable
+									for our programs
+								</div>
+							</dt>
+							<dd
+								class="order-first text-3xl font-semibold tracking-tight text-indigo-700 sm:text-6xl"
+							>
+								$7,000+
+							</dd>
+						</div>
+
 						<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 							<dt class="flex flex-col">
 								<div class="text-lg leading-7 text-gray-600 font-bold underline underline-offset-2">
 									Money Raised
 								</div>
 								<div class="text-md leading-7 text-gray-600">
-									Within 10 months in business, MissionRC has been succesful in raising money which
-									goes to assuring quality camps for students. All money goes towards awareness for
-									RC.
+									After over 2 years in business, MissionRC has raised over $5k towards RC
+									education, ensuring both facilities and materials are high quality and suitable
+									for our programs
 								</div>
 							</dt>
-
 							<dd
 								class="order-first text-3xl font-semibold tracking-tight text-indigo-700 sm:text-6xl"
 							>
-								$7,000+
+								$5,000+
 							</dd>
 						</div>
 					</dl>
@@ -93,14 +111,14 @@
 		</div>
 
 		<div>
-			<div class="mx-auto max-w-xl px-6 lg:px-8">
+			<div class="mx-auto max-w-2xl px-6 lg:px-8">
 				<h2 class="text-center text-3xl font-semibold leading-8 text-gray-900">
 					Partners and Sponsors
 				</h2>
 				<p class="text-md text-center text-gray-500 pt-4">
-					Partnered with Hack+ and sponsored by BEEP and YLI
+					Partnered with Hack+ and sponsored by BEEP, YLI, and San José Public Library
 				</p>
-				<div class="mx-auto mt-10 max-w-lg grid grid-cols-1 lg:grid-cols-3">
+				<div class="mx-auto mt-10 max-w-lg grid grid-cols-1 lg:grid-cols-4">
 					<img
 						class="max-h-24 w-full object-contain"
 						src="https://static.wixstatic.com/media/881909_ff8a1ab8e2224e1b8fddf5dcf7fc0eb6~mv2.png/v1/fill/w_218,h_218,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/yli.png"
@@ -119,6 +137,13 @@
 						class="max-h-24 w-full object-contain"
 						src="https://static.wixstatic.com/media/881909_567ce9297e4146ffbce0b0ed27bb5f25~mv2.png/v1/fill/w_218,h_218,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/beepnobg.png"
 						alt="Beep Logo"
+						width="632"
+						height="192"
+					/>
+					<img
+						class="max-h-24 w-full object-contain"
+						src="https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/142/2023/06/sjpl-runner-888x444.png?ver=241003152008"
+						alt="San Jose Public Library Logo"
 						width="632"
 						height="192"
 					/>
@@ -147,13 +172,25 @@
 					class="mt-12 grid grid-cols-1 gap-y-8 sm:grid-cols-2 sm:gap-x-8 sm:gap-y-8 lg:grid-cols-3"
 				>
 					<div class="relative overflow-hidden rounded-lg">
-						<img src="camp1.webp" alt="Camp 1" class="w-full h-full object-cover" />
+						<enhanced:img
+							src="/static/camp1.webp"
+							alt="Camp 1"
+							class="w-full h-full object-cover"
+						/>
 					</div>
 					<div class="relative overflow-hidden rounded-lg">
-						<img src="camp2.webp" alt="Camp 2" class="w-full h-full object-cover" />
+						<enhanced:img
+							src="/static/camp2.webp"
+							alt="Camp 2"
+							class="w-full h-full object-cover"
+						/>
 					</div>
 					<div class="relative overflow-hidden rounded-lg">
-						<img src="camp3.webp" alt="Camp 3" class="w-full h-full object-cover" />
+						<enhanced:img
+							src="/static/camp3.webp"
+							alt="Camp 3"
+							class="w-full h-full object-cover"
+						/>
 					</div>
 				</div>
 			</div>

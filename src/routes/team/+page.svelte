@@ -34,18 +34,26 @@
 					class="grid items-center gap-4 pt-8 max-w-2xl mx-auto grid-cols-1 sm:grid-cols-2 lg:grid-cols-3"
 				>
 					<div class="flex flex-col items-center">
-						<img src="ethan.webp" alt="Team Member 1" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/ethan.webp"
+							alt="Team Member 1"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-gray-900 text-lg font-semibold pt-4">Ethan Chu</h3>
 						<p class="text-gray-600">Chief Executive Officer</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="ani.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/ani.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Anirudh Sabari</h3>
 						<p class="text-gray-600 pt-1">Director of Management</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img
-							src="hritvik.webp"
+						<enhanced:img
+							src="/static/hritvik.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -53,23 +61,35 @@
 						<p class="text-gray-600 pt-1">Director of Operations</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="sam.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/sam.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Sam Mathew</h3>
 						<p class="text-gray-600 pt-1">Director of Training</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="anav.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/anav.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Anav Saxena</h3>
 						<p class="text-gray-600 pt-1">Director of Programs</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="grace.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/grace.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Grace Nam</h3>
 						<p class="text-gray-600 pt-1">Director of Finance</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img
-							src="lawrence.webp"
+						<enhanced:img
+							src="/static/lawrence.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -77,42 +97,76 @@
 						<p class="text-gray-600 pt-1">Director of Administration</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="aarav.webp" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/aarav.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Aarav Mehta</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="ved.jpeg" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/ved.jpeg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Ved Kamath</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="eugene.jpeg" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/eugene.jpeg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Eugene Hong</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="satvik.jpeg" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/satvik.jpeg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Satvik Reddy</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="hansika.png" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Hansika Chinnakonda Mahesh Babu</h3>
+						<enhanced:img
+							src="/static/hansika.png"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">
+							Hansika Chinnakonda Mahesh Babu
+						</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="jaseer.png" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/jaseer.png"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Jaseer Abdulla</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="tejas.png" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/tejas.png"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Tejas Bojanapati</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<img src="rudra.png" alt="Team Member 2" class="rounded-full h-32 w-32 object-cover" />
+						<enhanced:img
+							src="/static/rudra.png"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Rudra Chatripally</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
