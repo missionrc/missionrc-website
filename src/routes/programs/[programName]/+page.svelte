@@ -67,6 +67,25 @@
 						{/each}
 					</div>
 				{/if}
+
+				<!-- album link -->
+				{#if programData?.albumLink}
+					<div class="mt-8 text-center">
+						<a
+							href={programData?.albumLink}
+							class="text-indigo-600 hover:underline"
+							target="_blank"
+						>
+							View Complete Album
+						</a>
+					</div>
+				{/if}
+
+				<hr class="my-8 border-t-2 border-gray-200" />
+
+				<div class="mt-8 text-center">
+					<a href="/programs" class="text-indigo-600 hover:underline">Back to Programs</a>
+				</div>
 			</div>
 		</main>
 	</div>
