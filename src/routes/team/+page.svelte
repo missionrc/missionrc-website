@@ -31,11 +31,11 @@
 					</p>
 				</div>
 				<div
-					class="grid items-center gap-4 pt-8 max-w-2xl mx-auto grid-cols-1 sm:grid-cols-2 lg:grid-cols-3"
+					class="grid items-center gap-4 pt-8 max-w-5xl mx-auto grid-cols-1 sm:grid-cols-3 lg:grid-cols-4"
 				>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/ethan.webp"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924757/ethan_ufchqj.webp"
 							alt="Team Member 1"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -43,8 +43,8 @@
 						<p class="text-gray-600">Chief Executive Officer</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/ani.webp"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924732/ani_juikqi.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -52,8 +52,8 @@
 						<p class="text-gray-600 pt-1">Director of Management</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/hritvik.webp"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924771/hritvik_tufky4.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -61,8 +61,8 @@
 						<p class="text-gray-600 pt-1">Director of Operations</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/sam.webp"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924800/sam_oxdve0.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -70,8 +70,8 @@
 						<p class="text-gray-600 pt-1">Director of Training</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/anav.webp"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924732/anav_ple69r.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -79,8 +79,8 @@
 						<p class="text-gray-600 pt-1">Director of Programs</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/grace.webp"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926151/grace_yt2pwe.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -88,8 +88,8 @@
 						<p class="text-gray-600 pt-1">Director of Finance</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/lawrence.webp"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924774/lawrence_oirteg.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -97,8 +97,17 @@
 						<p class="text-gray-600 pt-1">Director of Administration</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/aarav.webp"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734927568/chetana-min_ifrpxm.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Chetana Medam</h3>
+						<p class="text-gray-600 pt-1">Marketing Manager</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924732/aarav_xtf5ik.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -106,8 +115,8 @@
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/ved.jpeg"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924801/ved_bq7oys.jpg"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -115,8 +124,8 @@
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/eugene.jpeg"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924757/eugene_v0trc0.jpg"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -124,8 +133,8 @@
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/satvik.jpeg"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924800/satvik_kw8b9q.jpg"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -133,8 +142,8 @@
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/hansika.png"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924773/hansika_lnpvyo.png"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -144,8 +153,8 @@
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/jaseer.png"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924773/jaseer_wbbnkk.png"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -153,8 +162,8 @@
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/tejas.png"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924802/tejas_dng8mg.png"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
@@ -162,12 +171,48 @@
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
-						<enhanced:img
-							src="/static/rudra.png"
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924802/rudra_y9nish.jpg"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Rudra Chatripally</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926711/alex-li_lwrimu.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Alex Li</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926737/nathan_gjlii0.png"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Nathan Lam</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926733/jimmy_eznp2m.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Ishaan Saxena</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926770/timofei_w14sst.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Timofei Shabalin</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 				</div>
