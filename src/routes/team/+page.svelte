@@ -103,7 +103,7 @@
 							class="rounded-full h-32 w-32 object-cover"
 						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Chetana Medam</h3>
-						<p class="text-gray-600 pt-1">Marketing Manager</p>
+						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 					<div class="flex flex-col items-center">
 						<img
