@@ -98,6 +98,15 @@
 					</div>
 					<div class="flex flex-col items-center">
 						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1736996567/dhruva-the-goat3_udybpn.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Dhruva Srinivas</h3>
+						<p class="text-gray-600 pt-1">Web Developer and Designer</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img
 							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734927568/chetana-min_ifrpxm.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
@@ -214,6 +223,42 @@
 						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Timofei Shabalin</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1736997543/pujita_yo8y9r.png"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Pujitha Jonna</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1736997627/brady_y7il5e.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Brady Diec</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+				</div>
+			</div>
+			<div>
+				<h2 class="text-center text-3xl font-semibold leading-8 text-gray-900 pt-8">
+					Ex-Officio Members
+				</h2>
+				<div
+					class="grid items-center gap-4 pt-8 max-w-5xl mx-auto grid-cols-1 sm:grid-cols-3 lg:grid-cols-4"
+				>
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1736997350/andrew_css8yk.jpg"
+							alt="Team Member 1"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-gray-900 text-lg font-semibold pt-4">Andrew Evangelista</h3>
+						<p class="text-gray-600">Chief Technology Officer</p>
 					</div>
 				</div>
 			</div>
