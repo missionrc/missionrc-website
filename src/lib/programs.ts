@@ -32,8 +32,7 @@ export const programs: Program[] = [
     location: "Calabazas Branch Library (1230 S Blaney Ave, San Jose, CA 95129)",
     time: "2:00 PM - 5:00 PM",
     date: "6/24, 6/28, 7/1, and 7/5",
-    isOpen: true,
-    registrationLink: "https://forms.gle/CmagMdbVBcxTCtVX6",
+    isOpen: false,
     images: [
       "https://lh3.googleusercontent.com/pw/AP1GczMs3h1drc0k_DZ9JRDMNHvR60PTBKhZuy87et1CiixtpE8ThPFkISW0mYbWdUJVHgIKnVh8meae3DNjjkssFs2LGP1WQ73khWz1UI9rSulh8NptXPJXde4jO6thraMOb5kJ9iAd7gq_DdfwMBMAyzD9ZQ=w1391-h1044-s-no-gm",
       "https://lh3.googleusercontent.com/pw/AP1GczMWelHASbS2LzygwB2arx060wvxwSpMHVgAxXK1xSf6aEoEYRMZNKrhHJV6VtHOu8b_WIZpgy6Y9P-s9NI8a9FACjGDFy-zYZhtYjMOgmk54fiZdMPvW9KnwJLxqL429H8SOFusaLqGSAwQGLJQcnFXMw=w1391-h1044-s-no-gm",

@@ -36,12 +36,18 @@
 
 				<hr class="my-8 border-t-2 border-gray-200" />
 
-				<div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2">
+				<div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2">More programs coming soon!</div>
+
+				<hr class="my-8 border-t-2 border-gray-200" />
+
+				<h1 class="text-2xl font-semibold text-center text-indigo-800">Past Programs</h1>
+
+				<div class="pt-4 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2">
 					<ProgramCard
 						title="Junior Aviators RC Camp"
 						season="2024 Summer"
 						description="Over the course of 5 weeks, students will learn the fundamentals of RC and will build their own RC plane project with a team of fellow students."
-						btnText="Coming Soon"
+						btnText="View Details"
 						btnLink="/programs/junior-aviators-rc-camp"
 					/>
 
@@ -49,16 +55,10 @@
 						title="DriveExplorers: Remote Control Car Engineering"
 						season="2024 Summer"
 						description="Students create their custom RC car from scratch with mentor guidance from fellow students. The program aims to teach students the fundamentals of RC."
-						btnText="Register"
+						btnText="View Details"
 						btnLink="/programs/drive-explorers"
 					/>
-				</div>
 
-				<hr class="my-8 border-t-2 border-gray-200" />
-
-				<h1 class="text-2xl font-semibold text-center text-indigo-800">Past Programs</h1>
-
-				<div class="pt-4 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2">
 					<ProgramCard
 						title="RC Cars & Engineering Exploration"
 						season="2023-2024 Fall"

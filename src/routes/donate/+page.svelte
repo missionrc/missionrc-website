@@ -92,7 +92,7 @@
 
 				<div class="py-3 sm:py-4 flex justify-center">
 					<a
-						href="https://hack.ms/missionrc"
+						href="https://hcb.hackclub.com/donations/start/missionrc"
 						target="_blank"
 						class="mt-8 inline-block w-full sm:w-auto text-center rounded-full bg-indigo-600 px-8 py-4 text-xl font-semibold text-white shadow-lg hover:bg-indigo-500 focus:outline-none focus:ring-4 focus:ring-indigo-300 focus:ring-opacity-50 transition-all duration-300"
 					>

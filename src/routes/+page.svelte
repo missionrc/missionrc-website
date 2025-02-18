@@ -116,9 +116,17 @@
 					Partners and Sponsors
 				</h2>
 				<p class="text-md text-center text-gray-500 pt-4">
-					Partnered with Hack+ and sponsored by BEEP, YLI, and San José Public Library
+					Partnered with Hack Club and Hack+<br />Sponsored by BEEP, YLI, and San José Public Library
 				</p>
 				<div class="mx-auto mt-10 max-w-lg grid grid-cols-1 lg:grid-cols-4">
+					<img
+						class="max-h-24 w-full object-contain"
+						src="https://assets.hackclub.com/flag-orpheus-left.png"
+						alt="hack club logo"
+						width="632"
+						height="192"
+					/>
+
 					<img
 						class="max-h-24 w-full object-contain"
 						src="https://static.wixstatic.com/media/881909_ff8a1ab8e2224e1b8fddf5dcf7fc0eb6~mv2.png/v1/fill/w_218,h_218,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/yli.png"
