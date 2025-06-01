@@ -99,9 +99,9 @@
 						</div>
 
 						<NavLink title="Home" href="/" isMobile={true} />
-						<NavLink title="Team" href="/" isMobile={true} />
-						<NavLink title="About Us" href="/" isMobile={true} />
-						<NavLink title="Programs" href="/" isMobile={true} />
+						<NavLink title="Team" href="/team" isMobile={true} />
+						<NavLink title="About Us" href="/about" isMobile={true} />
+						<NavLink title="Programs" href="/programs" isMobile={true} />
 						<NavLink title="Contact" href="/#contact" isMobile={true} />
 					</div>
 				</div>
