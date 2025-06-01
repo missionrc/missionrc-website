@@ -35,67 +35,74 @@
 				>
 					<div class="flex flex-col items-center">
 						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924757/ethan_ufchqj.webp"
-							alt="Team Member 1"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-gray-900 text-lg font-semibold pt-4">Ethan Chu</h3>
-						<p class="text-gray-600">Chief Executive Officer</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924732/ani_juikqi.webp"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Anirudh Sabari</h3>
-						<p class="text-gray-600 pt-1">Director of Management</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924771/hritvik_tufky4.webp"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Hritvik Srivastava</h3>
-						<p class="text-gray-600 pt-1">Director of Operations</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924800/sam_oxdve0.webp"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Sam Mathew</h3>
-						<p class="text-gray-600 pt-1">Director of Training</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924732/anav_ple69r.webp"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Anav Saxena</h3>
-						<p class="text-gray-600 pt-1">Director of Programs</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
 							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926151/grace_yt2pwe.webp"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Grace Nam</h3>
-						<p class="text-gray-600 pt-1">Director of Finance</p>
+						<p class="text-gray-600 pt-1">Chief Executive Officer</p>
 					</div>
+
 					<div class="flex flex-col items-center">
 						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924774/lawrence_oirteg.webp"
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1748821304/person-placeholder_bnqvhc.jpg"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Lawrence Chen</h3>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Masato Schuetz</h3>
+						<p class="text-gray-600 pt-1">Director of Operations</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924773/jaseer_wbbnkk.png"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Jaseer Abdulla</h3>
+						<p class="text-gray-600 pt-1">Director of Management</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924802/tejas_dng8mg.png"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Tejas Bojanapati</h3>
 						<p class="text-gray-600 pt-1">Director of Administration</p>
 					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924802/rudra_y9nish.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Rudra Chatripally</h3>
+						<p class="text-gray-600 pt-1">Director of Finance</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1748821304/person-placeholder_bnqvhc.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Mitul Basaralu</h3>
+						<p class="text-gray-600 pt-1">Curriculum Manager</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1748821304/person-placeholder_bnqvhc.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Zarek Mesa</h3>
+						<p class="text-gray-600 pt-1">Project Manager</p>
+					</div>
+
 					<div class="flex flex-col items-center">
 						<img
 							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1736996567/dhruva-the-goat3_udybpn.jpg"
@@ -105,6 +112,7 @@
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Dhruva Srinivas</h3>
 						<p class="text-gray-600 pt-1">Web Developer and Designer</p>
 					</div>
+
 					<div class="flex flex-col items-center">
 						<img
 							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734927568/chetana-min_ifrpxm.webp"
@@ -112,17 +120,19 @@
 							class="rounded-full h-32 w-32 object-cover"
 						/>
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Chetana Medam</h3>
-						<p class="text-gray-600 pt-1">Project Lead</p>
+						<p class="text-gray-600 pt-1">Marketing Manager</p>
 					</div>
+
 					<div class="flex flex-col items-center">
 						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924732/aarav_xtf5ik.webp"
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924757/eugene_v0trc0.jpg"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Aarav Mehta</h3>
-						<p class="text-gray-600 pt-1">Project Lead</p>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Eugene Hong</h3>
+						<p class="text-gray-600 pt-1">Human Resources Manager</p>
 					</div>
+
 					<div class="flex flex-col items-center">
 						<img
 							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924801/ved_bq7oys.jpg"
@@ -132,15 +142,165 @@
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Ved Kamath</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
+
 					<div class="flex flex-col items-center">
 						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924757/eugene_v0trc0.jpg"
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926711/alex-li_lwrimu.jpg"
 							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Eugene Hong</h3>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Alex Li</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926737/nathan_gjlii0.png"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Nathan Lam</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926733/jimmy_eznp2m.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Ishaan Saxena</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926770/timofei_w14sst.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Timofei Shabalin</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1748821304/person-placeholder_bnqvhc.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Akshita Reddy Bethi</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1748821304/person-placeholder_bnqvhc.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Sean Honh</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1748821304/person-placeholder_bnqvhc.jpg"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Vasuman Sabari</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+				</div>
+			</div>
+			<div>
+				<h2 class="text-center text-3xl font-semibold leading-8 text-gray-900 pt-8">
+					Past Members
+				</h2>
+				<div
+					class="grid items-center gap-4 pt-8 max-w-5xl mx-auto grid-cols-1 sm:grid-cols-3 lg:grid-cols-4"
+				>
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924757/ethan_ufchqj.webp"
+							alt="Team Member 1"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-gray-900 text-lg font-semibold pt-4">Ethan Chu</h3>
+						<p class="text-gray-600">Chief Executive Officer</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924732/ani_juikqi.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Anirudh Sabari</h3>
+						<p class="text-gray-600 pt-1">Director of Management</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924771/hritvik_tufky4.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Hritvik Srivastava</h3>
+						<p class="text-gray-600 pt-1">Director of Operations</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924800/sam_oxdve0.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Sam Mathew</h3>
+						<p class="text-gray-600 pt-1">Director of Training</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924732/anav_ple69r.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Anav Saxena</h3>
+						<p class="text-gray-600 pt-1">Director of Programs</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924774/lawrence_oirteg.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Lawrence Chen</h3>
+						<p class="text-gray-600 pt-1">Director of Administration</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1736997350/andrew_css8yk.jpg"
+							alt="Team Member 1"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-gray-900 text-lg font-semibold pt-4">Andrew Evangelista</h3>
+						<p class="text-gray-600">Chief Technology Officer</p>
+					</div>
+
+					<div class="flex flex-col items-center">
+						<img
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924732/aarav_xtf5ik.webp"
+							alt="Team Member 2"
+							class="rounded-full h-32 w-32 object-cover"
+						/>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Aarav Mehta</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
+					</div>
+
 					<div class="flex flex-col items-center">
 						<img
 							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924800/satvik_kw8b9q.jpg"
@@ -150,6 +310,7 @@
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Satvik Reddy</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
+
 					<div class="flex flex-col items-center">
 						<img
 							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924773/hansika_lnpvyo.png"
@@ -161,69 +322,7 @@
 						</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924773/jaseer_wbbnkk.png"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Jaseer Abdulla</h3>
-						<p class="text-gray-600 pt-1">Project Lead</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924802/tejas_dng8mg.png"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Tejas Bojanapati</h3>
-						<p class="text-gray-600 pt-1">Project Lead</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734924802/rudra_y9nish.jpg"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Rudra Chatripally</h3>
-						<p class="text-gray-600 pt-1">Project Lead</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926711/alex-li_lwrimu.jpg"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Alex Li</h3>
-						<p class="text-gray-600 pt-1">Project Lead</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926737/nathan_gjlii0.png"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Nathan Lam</h3>
-						<p class="text-gray-600 pt-1">Project Lead</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926733/jimmy_eznp2m.jpg"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Ishaan Saxena</h3>
-						<p class="text-gray-600 pt-1">Project Lead</p>
-					</div>
-					<div class="flex flex-col items-center">
-						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1734926770/timofei_w14sst.jpg"
-							alt="Team Member 2"
-							class="rounded-full h-32 w-32 object-cover"
-						/>
-						<h3 class="text-lg font-semibold text-gray-900 pt-4">Timofei Shabalin</h3>
-						<p class="text-gray-600 pt-1">Project Lead</p>
-					</div>
+
 					<div class="flex flex-col items-center">
 						<img
 							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1736997543/pujita_yo8y9r.png"
@@ -233,6 +332,7 @@
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Pujitha Jonna</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
+
 					<div class="flex flex-col items-center">
 						<img
 							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1736997627/brady_y7il5e.jpg"
@@ -242,23 +342,15 @@
 						<h3 class="text-lg font-semibold text-gray-900 pt-4">Brady Diec</h3>
 						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
-				</div>
-			</div>
-			<div>
-				<h2 class="text-center text-3xl font-semibold leading-8 text-gray-900 pt-8">
-					Ex-Officio Members
-				</h2>
-				<div
-					class="grid items-center gap-4 pt-8 max-w-5xl mx-auto grid-cols-1 sm:grid-cols-3 lg:grid-cols-4"
-				>
+
 					<div class="flex flex-col items-center">
 						<img
-							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1736997350/andrew_css8yk.jpg"
-							alt="Team Member 1"
+							src="https://res.cloudinary.com/dklqnjf2k/image/upload/v1748821304/person-placeholder_bnqvhc.jpg"
+							alt="Team Member 2"
 							class="rounded-full h-32 w-32 object-cover"
 						/>
-						<h3 class="text-gray-900 text-lg font-semibold pt-4">Andrew Evangelista</h3>
-						<p class="text-gray-600">Chief Technology Officer</p>
+						<h3 class="text-lg font-semibold text-gray-900 pt-4">Ria Sharma</h3>
+						<p class="text-gray-600 pt-1">Project Lead</p>
 					</div>
 				</div>
 			</div>

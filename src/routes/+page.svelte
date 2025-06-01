@@ -116,9 +116,10 @@
 					Partners and Sponsors
 				</h2>
 				<p class="text-md text-center text-gray-500 pt-4">
-					Partnered with Hack Club and Hack+<br />Sponsored by BEEP, YLI, and San José Public Library
+					Partnered with Hack Club and Hack+<br />Sponsored by BEEP, YLI, and San José Public
+					Library
 				</p>
-				<div class="mx-auto mt-10 max-w-lg grid grid-cols-1 lg:grid-cols-4">
+				<div class="mx-auto mt-10 max-w-lg grid grid-cols-1 lg:grid-cols-5">
 					<img
 						class="max-h-24 w-full object-contain"
 						src="https://assets.hackclub.com/flag-orpheus-left.png"
@@ -152,8 +153,6 @@
 						class="max-h-24 w-full object-contain"
 						src="https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/142/2023/06/sjpl-runner-888x444.png?ver=241003152008"
 						alt="San Jose Public Library Logo"
-						width="632"
-						height="192"
 					/>
 				</div>
 			</div>

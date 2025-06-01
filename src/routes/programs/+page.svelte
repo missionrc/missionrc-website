@@ -36,7 +36,9 @@
 
 				<hr class="my-8 border-t-2 border-gray-200" />
 
-				<div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2">More programs coming soon!</div>
+				<div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2">
+					More programs coming soon!
+				</div>
 
 				<hr class="my-8 border-t-2 border-gray-200" />
 
@@ -68,19 +70,19 @@
 					/>
 
 					<ProgramCard
-						title="RC Project Building Workshop"
-						season="July 31 - August 4, 2023"
-						description="Students will be creating several RC projects, which will consist of RC planes, cars, and drones. "
-						btnText="View Details"
-						btnLink="/programs/rc-project-building"
-					/>
-
-					<ProgramCard
 						title="Sky Pioneers: RC Plane Engineering Program"
 						season="2024 Spring"
 						description="Students will learn basic mechanics behind the plane and collaborate with a team to apply the experimental design process to develop their own RC plane from scratch."
 						btnText="View Details"
 						btnLink="/programs/sky-pioneers"
+					/>
+
+					<ProgramCard
+						title="RC Project Building Workshop"
+						season="July 31 - August 4, 2023"
+						description="Students will be creating several RC projects, which will consist of RC planes, cars, and drones. "
+						btnText="View Details"
+						btnLink="/programs/rc-project-building"
 					/>
 				</div>
 			</div>

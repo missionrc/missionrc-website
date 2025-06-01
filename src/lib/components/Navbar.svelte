@@ -82,22 +82,27 @@
 					</svg>
 				</button>
 			</div>
-			<div class="mt-6 flow-root">
-				<div class="-my-6 divide-y divide-gray-500/10">
-					<div class="space-y-2 py-6">
+			<div class="flow-root">
+				<div class="divide-y divide-gray-500/10">
+					<div>
+						<div class="py-3">
+							<a
+								href="/donate"
+								class="-mx-3 block rounded-lg px-3 py-2.5 font-semibold leading-7 hover:bg-gray-50"
+							>
+								<div
+									class="p-3 rounded-lg bg-indigo-600 hover:bg-indigo-700 text-white text-center"
+								>
+									Donate<span aria-hidden="true" class="pl-1">&rarr;</span>
+								</div>
+							</a>
+						</div>
+
 						<NavLink title="Home" href="/" isMobile={true} />
 						<NavLink title="Team" href="/" isMobile={true} />
 						<NavLink title="About Us" href="/" isMobile={true} />
 						<NavLink title="Programs" href="/" isMobile={true} />
 						<NavLink title="Contact" href="/#contact" isMobile={true} />
-						<div class="py-6">
-							<a
-								href="/donate"
-								class="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-							>
-								Donate
-							</a>
-						</div>
 					</div>
 				</div>
 			</div>
