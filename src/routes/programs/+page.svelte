@@ -37,7 +37,13 @@
 				<hr class="my-8 border-t-2 border-gray-200" />
 
 				<div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2">
-					More programs coming soon!
+					<ProgramCard
+						title="Drive Explorers: Remote-Controlled Car Engineering"
+						season="2025 Spring"
+						description="Students will be introduced to the fundamentals of remote-controlled (RC) systems, learning basic electrical and mechanical engineering concepts, and  using what they learn to build their very own remote-controlled cars. Participants will learn how to think like an engineer as they apply engineering concepts."
+						btnText="View Details"
+						btnLink="/programs/drive-explorers-2025"
+					/>
 				</div>
 
 				<hr class="my-8 border-t-2 border-gray-200" />
